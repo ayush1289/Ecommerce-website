@@ -1,16 +1,7 @@
-#logo
-{
-    height: 3rem;
+body{
+    background-size: cover;
+    background-image: url("images /transactions/layered-waves-haikei.svg");
 }
-.card-deck
-{
-    margin-top: 1rem;
-    padding: 1rem;
-    /* height: 37rem; */
-    
-}
-
-
 
 
 
